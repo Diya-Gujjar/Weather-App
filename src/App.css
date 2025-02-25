@@ -14,9 +14,9 @@ body {
   min-height: 350px;
 }
 
-.inputField {
+.inputField, .btn {
   border-radius: 8px;
-  margin-top: 15px;
+  margin: 15px 3px;
 }
 
 .city-name, .temp {
